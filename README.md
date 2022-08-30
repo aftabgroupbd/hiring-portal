@@ -21,7 +21,7 @@ Admin can approved/Reject user. Create Quizzes with multiple choice of question.
 - email: developeraftab6222@gmail.com
 - password: 12345678
 
-##Local Machine Instructions
+## Local Machine Instructions
 - Download or clone project
 - run composer update
 - export database
